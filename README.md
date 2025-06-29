@@ -34,7 +34,7 @@
 
 ### Hosting
 - Frontend: [Vercel](https://vercel.com/)
-- Backend: [Render](https://render.com/) (or your preferred host)
+- Backend: [Vercel](https://vercel.com/) (or your preferred host)
 
   ### Screenshots
 ![Screenshot (284)](https://github.com/user-attachments/assets/bbc8c66f-a063-4f85-b456-6e13e8d63c7b)
